@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+/* Group 880 */
+.g880 {
+    position: absolute;
+    width: 1280px;
+    height: 144px;
+    left: 0px;
+    top: 0px;
+}
+
+
+/* Group 833 - Compra 100%*/
+.g833 {
+    position: absolute;
+    width: 157px;
+    height: 20px;
+    left: 262px;
+    top: 6px;
+}
+
+/* Group 845 */
+.g845 {
+    position: absolute;
+    width: 202px;
+    height: 20px;
+    left: 539px;
+    top: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #9F9F9F;
+}
+
+/* Group 832 - Parcele */
+.g832 {
+    position: absolute;
+    width: 165px;
+    height: 20px;
+    left: 861px;
+    top: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #9F9F9F;
+}
+
+/* Compra 100% segura */
+.g844 {
+    position: absolute;
+    width: 129px;
+    height: 18px;
+    left: 292px;
+    top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+
+    /* identical to box height */
+    text-align: center;
+
+    /* GRAY 1 */
+    color: #9F9F9F;
+}
+
+/* ShieldCheck */
+.i844 {
+    position: absolute;
+    left: 262px;
+    top: 6px;
+
+    /* Vector */
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 274.56px;
+    margin-top: 12px;
+}
+
+/* Parcele suas compras */
+
+.l-yellow {
+    text-align: center;
+    /* COR PRINCIPAL */
+    color: #FBB900;
+}
+
+/* CreditCard */
+.i832 {
+    position: absolute;
+    left: 861px;
+    top: 6px;
+
+    /* Vector */
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 835.99px;
+    margin-top: 12px;
+}
+
+/* Truck */
+.i845 {
+    position: absolute;
+    left: 861px;
+    top: 6px;
+
+    /* Vector */
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 515.99px;
+    margin-top: 12px;
+}
+
+/* Line 16 */
+.li16 {
+    position: absolute;
+    width: 1280px;
+    height: 0px;
+    left: 0px;
+    top: 32px;
+
+    border: 1px solid #F0F0F0;
+}
+
+/* Rectangle 249 */
+.nav2-249 {
+    position: absolute;
+    width: 1280px;
+    height: 72px;
+    left: 0px;
+    top: 32px;
+
+    /* WHITE */
+
+    background: #FFFFFF;
+}
